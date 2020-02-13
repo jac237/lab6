@@ -28,7 +28,7 @@ function addProjectDetails(e) {
 
 	console.log("User clicked on project " + idNumber);
 
-	var URL = "http://localhost:3000/project/" + idNumber;
+	var URL = "https://jac237-lab6.herokuapp.com/project/" + idNumber;
 
 	console.log(URL);
 
